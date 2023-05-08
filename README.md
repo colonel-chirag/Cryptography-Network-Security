@@ -12,3 +12,5 @@ GK(DU) PYP
 GK(DU) Ist sessional
 ![image](https://user-images.githubusercontent.com/127727500/230778178-37aa0ada-fd7b-4ec4-b527-92f45fb521a8.png)
 
+GK(DU) IInd sessional
+![IMG_20230508_202712](https://user-images.githubusercontent.com/93399136/236859032-436ec6f6-7b4f-4f30-8ff4-3ce899047588.jpg)
