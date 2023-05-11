@@ -14,3 +14,7 @@ GK(DU) Ist sessional
 
 GK(DU) IInd sessional
 ![IMG_20230508_202712](https://user-images.githubusercontent.com/93399136/236859032-436ec6f6-7b4f-4f30-8ff4-3ce899047588.jpg)
+
+GK(DU) 2023 Semester Paper
+![IMG_20230511_184431](https://github.com/colonel-chirag/Cryptography-Network-Security/assets/93399136/082e1cf8-1123-4c4b-93dc-ccf5ae11041e)
+![IMG_20230511_184419](https://github.com/colonel-chirag/Cryptography-Network-Security/assets/93399136/33c6afe4-61c9-43d8-a56a-01914fa8ee7c)
